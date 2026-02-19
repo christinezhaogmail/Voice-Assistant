@@ -1,4 +1,4 @@
-# Voice Assistant - Week 3 Homework
+# Voice Assistant
 
 A real-time voice chatbot that handles multi-turn conversations using ASR (Whisper), LLM (LLaMA 3), and TTS (BentoTTS).
 
